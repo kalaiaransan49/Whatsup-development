@@ -7,3 +7,7 @@ code the last seen
 coding the image,background.
 
 hinding the last seen
+
+Add a audio call feature
+
+Add a video call feature
